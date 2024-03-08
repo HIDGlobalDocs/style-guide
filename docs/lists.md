@@ -7,11 +7,11 @@ Lists organize important information so that readers can scan content faster. Us
 When you include lists in your content, consider these best practices:
 
 - Introduce lists with a complete lead-in sentence that describes the purpose or the content of the list.
-- Include more than 1 item in a list.
-- Introduce only 1 idea, item, or action in each list item.
-- Use no more than 2 levels in a list: a primary list and a sublist.
+- Include more than one item in a list.
+- Introduce only one idea, item, or action in each list item.
+- Use no more than two levels in a list: a primary list and a sublist.
     - Use sublists sparingly to avoid overcomplicating information.
-    - Ensure sublists have more than 1 item.
+    - Ensure sublists have more than one item.
 - Capitalize the first letter of every list item.
 - In general, follow these punctuation guidelines for the items in a list:
     - If the list items are complete sentences, include end punctuation.
@@ -42,7 +42,7 @@ Bulleted lists must have the following qualities:
 
 - A complete lead-in sentence that describes the list's purpose, punctuated by a colon
 - A consistent hierarchy or order, such as alphabetization
-- More than 1one list item
+- More than one list item
 - No more than one sublist for each list item if needed, with at least two items in a sublist
 - Parallel sentence construction
 - Sentence case capitalization
@@ -117,7 +117,7 @@ When you write HID documentation, use a definition list to define a set of terms
 Definition lists must have the following qualities:
 
 - A complete lead-in sentence
-- More than 1 defined term
+- More than one defined term
 - Two levels: the term, which is in bold and on its own line, and the definition, which is at least one full sentence indented on its own line
 - Parallel sentence construction
 - Sentence case capitalizationn
