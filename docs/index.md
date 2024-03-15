@@ -1,7 +1,7 @@
 # Welcome to the Tech Pubs Style Guide
 
 !!! warning
-    This site is under construction. Come back later.
+    This site is under construction.
 
 The HID Tech Pubs Style Guide is the writing style reference for HID customer-facing technical documentation (tech docs) and is intended for anyone who writes or edits such content. Refer to the HID Tech Pubs Style Guide when you develop content for HID tech docs or write text for a HID product.
 
