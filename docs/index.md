@@ -1,4 +1,4 @@
-# Welcome to the Tech Pubs Style Guide
+# Welcome to the HID Tech Pubs Style Guide
 
 !!! warning
     This site is under construction.
