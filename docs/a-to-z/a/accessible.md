@@ -6,7 +6,7 @@ Don't use *accessible* as a synonym for *simple*. Use *easy to learn, easy to us
 
 ## Examples
 
-Support high-contrast themes to make the app more accessible for customers who have low vision.  
-Reading view sweeps distracting content out of your way, so it's easier to read what you want.
+- Support high-contrast themes to make the app more accessible for customers who have low vision.  
+- Reading view sweeps distracting content out of your way, so it's easier to read what you want.
 
-**See also**  [assistive](/a-to-z/a/assistive), [Accessibility](../../accessibility.md)
+**See also**  [assistive](../a/assistive.md), [Accessibility](../../accessibility.md)
