@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="160px" height="66px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect id="Artboard1" x="0" y="0" width="160" height="65.909" style="fill:none;"/>
+    <g id="Blue">
+        <path d="M152.6,65.909c4.088,-0 7.4,-3.319 7.4,-7.408l0,-51.093c0,-4.091 -3.312,-7.408 -7.4,-7.408l-145.191,-0c-4.085,-0 -7.409,3.317 -7.409,7.408l0,51.093c0,4.089 3.324,7.408 7.409,7.408l145.191,-0Z" style="fill:#003087;fill-rule:nonzero;"/>
+        <rect x="71.008" y="16.036" width="17.004" height="33.854" style="fill:#fff;"/>
+        <path d="M44.867,35.465l-0,14.425l17.005,-0l0,-33.857l-17.005,0l-0,14.43l-11.428,0l0,-14.43l-17.001,0l-0,33.857l17.001,-0l0,-14.425l11.428,-0Z" style="fill:#fff;fill-rule:nonzero;"/>
+        <path d="M113.584,46.852l-0,-27.765c6.191,0 11.046,-1.141 11.046,13.911c0,14.998 -4.043,13.854 -11.046,13.854m10.986,-30.819l-27.823,0l0,33.979l27.823,0c9.766,0 18.565,-7.353 18.58,-16.995c0.011,-9.579 -8.814,-16.984 -18.58,-16.984" style="fill:#fff;fill-rule:nonzero;"/>
+    </g>
+</svg>
