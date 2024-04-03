@@ -10,4 +10,4 @@ Don't use as an adjective preceding a noun (*the above section*) or following a 
 - See [Installation instructions](https://example.com/).
 - See Installation instructions, earlier in this article.  
 
-**See also** [below](../b/below), [earlier](../e/earlier.md)
+**See also** [below](../b/below.md), [earlier](../e/earlier.md)

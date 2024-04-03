@@ -8,4 +8,4 @@ It's OK to use *&* in content for technical audiences that covers its use in HTM
 
 To display a reserved character in HTML, use a character reference, which consists of an ampersand, the code name or number of the character, and a semicolon. For example, use `&lt;` or `&#60;` to display the less than sign (&lt;), and use `&gt;` or `&#62;` to display the greater than sign (&gt;).
 
-**See also** [plus sign (+)](/a-to-z/p/plus-sign.md)
+**See also** [plus sign (+)](../p/plus-sign.md)

@@ -1,9 +1,9 @@
 # auto-
 
-In general, don’t hyphenate words beginning with *auto-,* such as *autoscale* and *autodial,* unless it's necessary to avoid confusion. When in doubt, check [*The American Heritage Dictionary*](https://ahdictionary.com/).
+In general, don’t hyphenate words beginning with *auto-*, such as *autoscale* and *autodial*, unless it's necessary to avoid confusion. When in doubt, check [*The American Heritage Dictionary*](https://ahdictionary.com/).
 
-Don’t create new words beginning with *auto-.*
+Don’t create new words beginning with *auto-*.
 
-To learn more about hyphenation, see [Hyphens](~/punctuation/dashes-hyphens/hyphens.md).
+To learn more about hyphenation, see [Hyphens](../../punctuation-and-symbols.md#hyphen).
 
-For more information about prefixes, see [*The Chicago Manual of Style*](https://www.chicagomanualofstyle.org/home.html). 
+For more information about prefixes, see [*The Chicago Manual of Style*](https://www.chicagomanualofstyle.org/home.html).
