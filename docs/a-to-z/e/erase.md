@@ -1,5 +1,5 @@
 # erase
 
-Don't use as a synonym for *delete* unless the app requires it, as in Paint.
+Don't use as a synonym for *delete*.
 
 **See also** [delete](../d/delete.md)
