@@ -7,11 +7,6 @@ The Windows feature is *DNS*, not *DNS Server* or *Microsoft DNS Server*. If you
 Don't use *dynamic DNS* or *DDNS*.
 
 A DNS server (lowercase *s*) is a computer that's running DNS server software. DNS Server (capital *S*)
-is the Windows service that appears in the Computer Management console.
-In general, refer to the service only in a discussion about
-stopping and starting it.
+is the Windows service that appears in the Computer Management console. In general, refer to the service only in a discussion about stopping and starting it.
 
-A DNS client (lowercase *c*) is a client of a DNS server. DNS Client (capital *C*)
-is the Windows service that appears in the Computer Management console.
-In general, refer to the service only in a discussion about stopping
-and starting it.
+A DNS client (lowercase *c*) is a client of a DNS server. DNS Client (capital *C*) is the Windows service that appears in the Computer Management console. In general, refer to the service only in a discussion about stopping and starting it.

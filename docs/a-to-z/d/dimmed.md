@@ -6,8 +6,8 @@ Don’t use to describe commands or options that are in an unusable state—use 
 
 ## Examples
 
-The command isn't available until you select text.  
-If the option appears dimmed, it's not available.  
-Selected effects appear shaded.  
+- The command isn't available until you select text.  
+- If the option appears dimmed, it's not available.  
+- Selected effects appear shaded.  
 
 **See also** [disable, disabled](../d/disable-disabled.md), [unavailable](../u/unavailable.md)

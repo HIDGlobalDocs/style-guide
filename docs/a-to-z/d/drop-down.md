@@ -4,9 +4,9 @@ It's OK to use *drop-down* as an adjective in content for developers if you need
 
 ## Examples
 
-a drop-down menu  
-a drop-down combo box  
-a drop-down list box 
+- a drop-down menu  
+- a drop-down combo box  
+- a drop-down list box
 
 For other audiences, use *box* if you must name the UI element.
 

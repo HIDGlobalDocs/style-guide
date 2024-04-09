@@ -4,7 +4,7 @@ Write in a way that puts people first by using the phrase *person with* or *pers
 
 Don’t use language that defines people by their disability, such as *disabled, impaired*, and *the deaf*. A person might have a visual impairment, but that person isn’t impaired.
 
-**Examples**
+## Examples
 
 - Person with visual impairment, person who is blind
 - Person with hearing loss, person with deafness

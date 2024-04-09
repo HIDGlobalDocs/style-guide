@@ -8,8 +8,8 @@ Don't hyphenate *dialog box* as a modifier.
 
 ## Examples
 
-Word can't open this document because a dialog box is open. Close the dialog box to continue.  
-Select the **Paragraph** dialog box launcher, and then select **Tabs**.   
+- Word can't open this document because a dialog box is open. Close the dialog box to continue.  
+- Select the **Paragraph** dialog box launcher, and then select **Tabs**.
 
 **Exception** In content for developers, it's OK to use *dialog* by itself as a modifier. For example, "This article provides information about the dialog form pattern."
 
@@ -17,7 +17,7 @@ It's OK to use *dialogue* (not *dialog*) to refer to conversation or interaction
 
 ## Examples
 
-It's a great way to have a conversation with the customer about what cloud technology can do for their business.  
-Do you want to chat with a customer service agent?
+- It's a great way to have a conversation with the customer about what cloud technology can do for their business.
+- Do you want to chat with a customer service agent?
 
 **See also** [Describing interactions with UI](~/procedures-instructions/describing-interactions-with-ui.md), [Formatting text in instructions](~/procedures-instructions/formatting-text-in-instructions.md)  
