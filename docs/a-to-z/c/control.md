@@ -6,6 +6,6 @@ In other contexts, it's OK to use *control*.
 
 ## Examples
 
-In the **Font** list, select the font that you want to use.  
-On the **Developer** tab, in the **Controls** group, click the **Rich Text** control or the **Text** control.  
-What can I control with Parental Controls?
+- In the **Font** list, select the font that you want to use.  
+- On the **Developer** tab, in the **Controls** group, click the **Rich Text** control or the **Text** control.  
+- What can I control with Parental Controls?

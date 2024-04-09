@@ -6,5 +6,5 @@ In content for a technical audience, it’s OK to use *compute* to refer to comp
 
 ## Examples
 
-Learn how to compute the periodic annual interest rate in Microsoft Excel.   
-Each Microsoft Azure compute instance represents a virtual machine.  
+- Learn how to compute the periodic annual interest rate in Microsoft Excel.
+- Each Microsoft Azure compute instance represents a virtual machine.  

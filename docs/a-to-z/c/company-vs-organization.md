@@ -6,4 +6,4 @@ Use the term that makes the most sense for your audience.
 
 *Organization* includes schools, nonprofits, and government customers in addition to companies.  
 
-**See also** [enterprise](../e/enterprise.md), [org, organization](../o/org-organization.md) 
+**See also** [enterprise](../e/enterprise.md), [org, organization](../o/org-organization.md)
