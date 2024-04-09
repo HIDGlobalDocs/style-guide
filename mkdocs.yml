@@ -168,7 +168,6 @@ nav:
                             - "bulk": "a-to-z/b/bulk.md"
                             - "button": "a-to-z/b/button.md"
                   - "C":
-                            - "C, C++, C#": "a-to-z/c/c-cplusplus-csharp.md"
                             - "cable": "a-to-z/c/cable.md"
                             - "cabling": "a-to-z/c/cabling.md"
                             - "cache vs disk cache": "a-to-z/c/cache-vs-disk-cache.md"
@@ -194,8 +193,6 @@ nav:
                             - "choose": "a-to-z/c/choose.md"
                             - "clear": "a-to-z/c/clear.md"
                             - "click": "a-to-z/c/click.md"
-                            - "clickstream": "a-to-z/c/clickstream.md"
-                            - "clickthrough": "a-to-z/c/clickthrough.md"
                             - "client/server": "a-to-z/c/client-server.md"
                             - "client side, client-side": "a-to-z/c/client-side.md"
                             - "client": "a-to-z/c/client.md"

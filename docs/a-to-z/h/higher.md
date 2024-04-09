@@ -11,4 +11,4 @@ Don't use *higher* to refer to processor speed. Use *faster* instead.
 1920 × 1200 pixels or higher resolution  
 a processer speed of 2.5 gigahertz (GHz) or faster
 
-**See** [later](~/a-z-word-list-term-collections/l/later.md)
+**See** [later](../l/later.md)

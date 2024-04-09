@@ -15,5 +15,5 @@ The accidental shutdown might have damaged some files.
 
 **See also**   
 [Describing interactions with UI](~/procedures-instructions/describing-interactions-with-ui.md)  
-[turn on, turn off](~/a-z-word-list-term-collections/t/turn-on-turn-off.md)  
-[sleep](~/a-z-word-list-term-collections/s/sleep.md)
+[turn on, turn off](../t/turn-on-turn-off.md)  
+[sleep](../s/sleep.md)

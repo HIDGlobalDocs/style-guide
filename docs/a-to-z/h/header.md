@@ -11,4 +11,4 @@ which refers to the file at the beginning of a program that
 contains definitions of data types and variables used by the
 program's functions.
 
-**See also** [footer](~/a-z-word-list-term-collections/f/footer.md)
+**See also** [footer](../f/footer.md)

@@ -7,4 +7,4 @@ Use *search* and *replace* as verbs, not as nouns or adjectives.
 **Example**  
 Search your document. 
 
-**See also** [find and replace](~/a-z-word-list-term-collections/f/find-replace.md)
+**See also** [find and replace](../f/find-replace.md)

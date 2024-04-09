@@ -12,4 +12,4 @@ Don't use as a noun by itself. For example, don't say, *UPnP is an architecture 
 
 For other guidelines, see the [Open Connectivity Foundation website](https://openconnectivity.org/). 
 
-**See also** [Plug and Play, plug and play](~/a-z-word-list-term-collections/p/plug-and-play.md)
+**See also** [Plug and Play, plug and play](../p/plug-and-play.md)

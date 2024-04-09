@@ -14,4 +14,4 @@ the computer itself stops responding, and sometimes a program
 does. In messages, refer to the problem with precision and
 specificity.
 
-**See also** [stop, stop responding](~/a-z-word-list-term-collections/s/stop-stop-responding.md)
+**See also** [stop, stop responding](../s/stop-stop-responding.md)

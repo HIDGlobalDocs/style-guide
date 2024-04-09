@@ -14,4 +14,4 @@ Use *replace* instead of *overwrite*.
 Replace the selected text with the new text.   
 Replace the file with the changed file.
 
-**See also** [find and replace](~/a-z-word-list-term-collections/f/find-replace.md)
+**See also** [find and replace](../f/find-replace.md)

@@ -2,4 +2,4 @@
 
 Don’t use. Use *left-aligned* instead.
 
-**See** [left align, left-aligned](~/a-z-word-list-term-collections/l/left-align-left-aligned.md)
+**See** [left align, left-aligned](../l/left-align-left-aligned.md)

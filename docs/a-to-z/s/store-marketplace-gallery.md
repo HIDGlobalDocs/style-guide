@@ -7,4 +7,4 @@ from Microsoft only or from partners as well. Examples: Microsoft Store, Microso
 
 In an online store (either in a product experience or the web), avoid including *by* in the publisher line. For example, use *Microsoft,* not *by Microsoft.* If you must include *by,* lowercase it. 
 
-**See also** [Microsoft Store](~/a-z-word-list-term-collections/m/microsoft-store.md)
+**See also** [Microsoft Store](../m/microsoft-store.md)

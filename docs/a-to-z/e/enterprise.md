@@ -4,4 +4,4 @@ It's OK to use *enterprise* for an IT pro or developer audience to mean a *large
 
 Don't use in content for a general audience.  
 
-**See also** [company vs. organization](~/a-z-word-list-term-collections/c/company-vs-organization.md)
+**See also** [company vs. organization](../c/company-vs-organization.md)

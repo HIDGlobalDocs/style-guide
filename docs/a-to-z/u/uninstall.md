@@ -4,4 +4,4 @@ Use *uninstall* as a verb to describe removing apps, programs, and hardware driv
 
 Don't use *uninstall* as a noun.
 
-**See also** [remove](~/a-z-word-list-term-collections/r/remove.md)
+**See also** [remove](../r/remove.md)

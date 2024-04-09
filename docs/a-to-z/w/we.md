@@ -10,4 +10,4 @@ The scheduled default setting is the easiest way to keep your computer up to dat
 Select the people you want to give permission to. We'll verify their identities before opening the document.   
 In September, we took a major step forward in introducing Windows 10 to our enterprise customers.  
 
-**See also** [Microsoft](~/a-z-word-list-term-collections/m/microsoft.md)
+**See also** [Microsoft](../m/microsoft.md)

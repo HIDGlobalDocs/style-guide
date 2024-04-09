@@ -13,4 +13,4 @@ In social media, it's OK to use the \# symbol to indicate a hashtag. Don't use *
 
 It's OK to use the \# symbol in references to the \# key on the keyboard.
 
-**See also** [Keys and keyboard shortcuts term collection](~/a-z-word-list-term-collections/term-collections/keys-keyboard-shortcuts.md)
+**See also** [Keys and keyboard shortcuts term collection](../term-collections/keys-keyboard-shortcuts.md)

@@ -12,4 +12,4 @@ The data shows that 95 percent of users prefer a graphical interface.
 The data gathered so far is incomplete.  
 These facts contradict earlier data. 
 
-**See also** [big data](~/a-z-word-list-term-collections/b/big-data.md)
+**See also** [big data](../b/big-data.md)

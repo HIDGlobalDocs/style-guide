@@ -11,4 +11,4 @@ Windows device
 the Windows Recycle Bin   
 a device running Windows
 
-**See also** [user, end user](~/a-z-word-list-term-collections/u/user-end-user.md), [runs vs. runs on](~/a-z-word-list-term-collections/r/runs-vs-runs-on.md)
+**See also** [user, end user](../u/user-end-user.md), [runs vs. runs on](../r/runs-vs-runs-on.md)

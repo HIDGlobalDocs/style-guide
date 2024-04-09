@@ -11,4 +11,4 @@ Describe entering commands *at a command prompt,* not *on a command line*.
 **Example**  
 At the command prompt, enter **certutil -setreg ca**.
 
-**See also**  [command line](~/a-z-word-list-term-collections/c/command-line.md), [console](~/a-z-word-list-term-collections/c/console.md)
+**See also**  [command line](../c/command-line.md), [console](../c/console.md)

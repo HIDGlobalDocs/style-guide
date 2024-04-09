@@ -2,4 +2,4 @@
 
 Don't use. 
 
-**See** [File Explorer](~/a-z-word-list-term-collections/f/file-explorer.md)
+**See** [File Explorer](../f/file-explorer.md)

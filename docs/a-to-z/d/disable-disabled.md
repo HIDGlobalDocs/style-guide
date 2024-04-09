@@ -13,7 +13,7 @@ Disable the command prompt to prevent users from opening a command window.
 
 ## See also
 
-[Accessibility term collection](~/a-z-word-list-term-collections/term-collections/accessibility-terms.md)  
-[turn on, turn off](~/a-z-word-list-term-collections/t/turn-on-turn-off.md)  
-[unavailable](~/a-z-word-list-term-collections/u/unavailable.md)  
-[enable, enables](~/a-z-word-list-term-collections/e/enable-enables.md)
+[Accessibility term collection](../term-collections/accessibility-terms.md)  
+[turn on, turn off](../t/turn-on-turn-off.md)  
+[unavailable](../u/unavailable.md)  
+[enable, enables](../e/enable-enables.md)

@@ -12,4 +12,4 @@ The command isn’t available until you select text.
 If the option appears dimmed, it's not available.  
 Selected effects appear shaded. 
 
-**See also** [unavailable](~/a-z-word-list-term-collections/u/unavailable.md)
+**See also** [unavailable](../u/unavailable.md)

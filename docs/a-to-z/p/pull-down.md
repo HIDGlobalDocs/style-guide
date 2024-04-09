@@ -11,6 +11,6 @@ In the **Background** list, select **Solid color**.
 Go to **Tools**, and select **Change language**.  
 
 **See also**  
-[drop-down](~/a-z-word-list-term-collections/d/drop-down.md)  
+[drop-down](../d/drop-down.md)  
 [Describing interactions with UI](~/procedures-instructions/describing-interactions-with-ui.md)  
 [Formatting text in instructions](~/procedures-instructions/formatting-text-in-instructions.md)

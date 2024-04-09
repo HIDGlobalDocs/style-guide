@@ -56,7 +56,7 @@ to measurement. For other units of measure not covered here, see [*The Chicago M
     8.5" × 11" paper   
     1280 × 1024
 
-**See also** [Bits and bytes term collection](~/a-z-word-list-term-collections/term-collections/bits-bytes-terms.md), [Numbers](~/numbers.md)
+**See also** [Bits and bytes term collection](../term-collections/bits-bytes-terms.md), [Numbers](~/numbers.md)
 
 |**Category**|**Term**|**Abbreviation and usage**|
 --|--|--|

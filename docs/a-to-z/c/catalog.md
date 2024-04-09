@@ -1,3 +1,3 @@
 # catalog
 
-Use instead of *catalogue.*
+Use instead of *catalogue*.

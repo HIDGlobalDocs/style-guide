@@ -1,3 +1,3 @@
 # private cloud, hosted private cloud
 
-**See** [Cloud-computing term collection](~/a-z-word-list-term-collections/term-collections/cloud-computing-terms.md)
+**See** [Cloud-computing term collection](../term-collections/cloud-computing-terms.md)

@@ -15,7 +15,7 @@ If the command prompt isn’t available, your network administrator might have t
 
 **See also**  
 [Describing interactions with UI](~/procedures-instructions/describing-interactions-with-ui.md)  
-[disable, disabled](~/a-z-word-list-term-collections/d/disable-disabled.md)  
-[enable, enables](~/a-z-word-list-term-collections/e/enable-enables.md)  
-[shut down, shutdown](~/a-z-word-list-term-collections/s/shut-down-shutdown.md)  
-[unavailable](~/a-z-word-list-term-collections/u/unavailable.md)
+[disable, disabled](../d/disable-disabled.md)  
+[enable, enables](../e/enable-enables.md)  
+[shut down, shutdown](../s/shut-down-shutdown.md)  
+[unavailable](../u/unavailable.md)

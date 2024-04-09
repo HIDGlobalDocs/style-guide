@@ -7,4 +7,4 @@ It's OK to use *minimize* as a verb.
 ## Examples
 
 Select the **Minimize** button.   
-Select ![](media/minimize-button-minimize/1223646377.png).
+Select ![](../../assets/images/minimize-button-minimize/1223646377.png).

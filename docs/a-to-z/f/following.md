@@ -8,6 +8,6 @@ The following table compares the different rates.
 If *following* is the last word before what it introduces, follow it with a colon.
 
 **See also**  
-[earlier](~/a-z-word-list-term-collections/e/earlier.md)  
-[later](~/a-z-word-list-term-collections/l/later.md)  
+[earlier](../e/earlier.md)  
+[later](../l/later.md)  
 [Lists](~/scannable-content/lists.md)

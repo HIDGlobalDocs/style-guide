@@ -20,4 +20,4 @@ Scroll through email to find the message you want to read.
 You have new mail.  
 Email us your comments. 
 
-**See also** [message](~/a-z-word-list-term-collections/m/message.md)
+**See also** [message](../m/message.md)

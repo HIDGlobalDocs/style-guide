@@ -16,4 +16,4 @@ Plug and Play functionality
 Plug and Play printer   
 Plug and Play records the information in an event log.
 
-**See also** [UPnP](~/a-z-word-list-term-collections/u/upnp.md)
+**See also** [UPnP](../u/upnp.md)

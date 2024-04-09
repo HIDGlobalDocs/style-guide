@@ -7,4 +7,4 @@ It's OK to use *desktop* when it's necessary to distinguish the core version of 
 **Example**  
 The feature is available on the Outlook desktop, Outlook on the web, and Outlook.com.
 
-**See also** [Computer and device term collection](~/a-z-word-list-term-collections/term-collections/computer-device-terms.md)
+**See also** [Computer and device term collection](../term-collections/computer-device-terms.md)

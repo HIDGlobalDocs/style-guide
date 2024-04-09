@@ -20,4 +20,4 @@ Don't use *privilege* as a synonym for *user right*.
 You must have the **Perform volume maintenance tasks** user right to perform this task.  
 You must be signed in as a member of the Administrators group to perform this task.
 
-**See also** [permissions](~/a-z-word-list-term-collections/p/permissions.md), [rights](~/a-z-word-list-term-collections/r/rights.md)
+**See also** [permissions](../p/permissions.md), [rights](../r/rights.md)

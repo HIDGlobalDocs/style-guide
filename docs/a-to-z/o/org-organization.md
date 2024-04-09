@@ -10,4 +10,4 @@ Don't use a period after the abbreviation.
 Get an online org chart application that works with Azure Active Directory and Office 365.  
 How to prepare for your cross-org Exchange migration
 
-**See also** [company vs. organization](~/a-z-word-list-term-collections/c/company-vs-organization.md)
+**See also** [company vs. organization](../c/company-vs-organization.md)

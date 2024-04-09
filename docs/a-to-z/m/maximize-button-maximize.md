@@ -8,4 +8,4 @@ It's OK to use *maximize* as a verb.
 
 Select the **Maximize** button.     
 To fill the screen, maximize the window.   
-Select ![](media/maximize-button-maximize/302251874.png).
+Select ![](../../assets/images/maximize-button-maximize/302251874.png).

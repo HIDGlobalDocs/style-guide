@@ -10,4 +10,4 @@ Don't use *primary/subordinate* as a synonym for *parent/child*.
 
 Each subordinate device has a unique 7-bit or 10-bit address. The architecture uses a standard *primary/subordinate* design to replicate data from one server to many.
 
-**See also** [parent/child](~/a-z-word-list-term-collections/p/parent-child.md)
+**See also** [parent/child](../p/parent-child.md)

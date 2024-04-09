@@ -17,4 +17,4 @@ A pop-up window gives additional information about an option.
 If you want to print the information in a pop-up window, right-click the window, and then select **Print Topic**.  
 In the pop-up list, select **Microsoft Excel**.  
 
-**See also** [context menu](~/a-z-word-list-term-collections/c/context-menu.md), [shortcut, shortcut menu](~/a-z-word-list-term-collections/s/shortcut-shortcut-menu.md)
+**See also** [context menu](../c/context-menu.md), [shortcut, shortcut menu](../s/shortcut-shortcut-menu.md)

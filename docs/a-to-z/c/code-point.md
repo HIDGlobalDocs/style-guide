@@ -1,3 +1,3 @@
 # code point
 
-Two words. 
+Two words.

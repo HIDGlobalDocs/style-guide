@@ -1,3 +1,3 @@
 # link
 
-**See** [hyperlink](~/a-z-word-list-term-collections/h/hyperlink.md)
+**See** [hyperlink](../h/hyperlink.md)

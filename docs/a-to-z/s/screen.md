@@ -6,4 +6,4 @@ Use instead of *screenful* or *full screen*.
 
 It's OK to use *screen* in instructions to describe what customers see on the screen or how they interact with it. 
 
-**See also** [Computer and device term collection](~/a-z-word-list-term-collections/term-collections/computer-device-terms.md)
+**See also** [Computer and device term collection](../term-collections/computer-device-terms.md)
