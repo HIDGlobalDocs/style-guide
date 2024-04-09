@@ -1,8 +1,8 @@
 # preview
 
-Prerelease versions of software and services are typically identified as *Product Name Preview* (preferred) or *Code Name Preview.* 
+Prerelease versions of software and services are typically identified as *Product Name Preview* (preferred) or *Code Name Preview*. 
 
-In generic references, lowercase *preview.*
+In generic references, lowercase *preview*.
 
 Avoid using *beta* to refer to a prerelease product that's ready for unstructured testing by customers. Use *preview* instead.
 

@@ -1,13 +1,13 @@
 # option, option button
 
-In general, avoid talking about the UI. Instead, talk about what the customer needs to do. Refer to an option by its UI label only. If you must provide a descriptor, use *option*. Use the exact label text, including its capitalization, but don't capitalize the word *option.*
+In general, avoid talking about the UI. Instead, talk about what the customer needs to do. Refer to an option by its UI label only. If you must provide a descriptor, use *option*. Use the exact label text, including its capitalization, but don't capitalize the word *option*.
 
 Avoid referring to the option button itself. Just discuss the option that it
 controls. When you must mention the button for clarity, use *option button*.
 
 ## Examples
 
-Select **No header row.**  
+Select **No header row*.*  
 When you select the **Keep source formatting** option, ....  
 For **Paste options**, select **Keep text only**.  
 

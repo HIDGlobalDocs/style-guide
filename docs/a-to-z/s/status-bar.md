@@ -3,7 +3,7 @@
 Use instead of *status line* or *message area* to refer
 to the area at the bottom of a document window that shows the
 status of a document and other information, such as the meaning of a
-command. Messages appear *on,* not *in,* the status bar.
+command. Messages appear *on*, not *in*, the status bar.
 
 ![](media/status-bar/1622172745.png)
 

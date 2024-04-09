@@ -1,7 +1,7 @@
 # Internet of Things (IoT)
 
 Note the capitalization. Spell out on the first mention unless you're sure that your audience knows the term 
-or *IoT* appears as part of a Microsoft product name. On subsequent mentions, use the abbreviation *IoT.*  
+or *IoT* appears as part of a Microsoft product name. On subsequent mentions, use the abbreviation *IoT*.  
 
 Include *the* with the spelled-out term but not the acronym.  
 

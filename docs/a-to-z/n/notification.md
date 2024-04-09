@@ -1,6 +1,6 @@
 # notification
 
-Use instead of *notice* to describe information displayed to a customer about communications, contacts, a service problem, or other item. Don't use *pop-up, toast,* or *banner* for this purpose.
+Use instead of *notice* to describe information displayed to a customer about communications, contacts, a service problem, or other item. Don't use *pop-up, toast*, or *banner* for this purpose.
 
 ## Examples
 

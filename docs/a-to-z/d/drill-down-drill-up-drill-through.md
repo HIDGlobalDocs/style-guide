@@ -1,6 +1,6 @@
 # drill down, drill up, drill through
 
-It's OK to use *drill down, drill up,* and *drill through* in content about data and the reports generated from them.
+It's OK to use *drill down, drill up*, and *drill through* in content about data and the reports generated from them.
 
 Two words as a verb. Hyphenate *drill-down* and *drill-up* as adjectives. Note that *drillthrough* as a noun or an adjective 
 is one word, no hyphen.

@@ -1,6 +1,6 @@
 # Microsoft
 
-Never abbreviate *Microsoft.* Don't use *Microsoft's.*
+Never abbreviate *Microsoft*. Don't use *Microsoft's*.
 
 ## Examples
 
@@ -16,21 +16,21 @@ Microsoft's privacy policies
 Include *Microsoft* the first time you mention a product or service name in body text. When you list several 
 product names, it's OK to include *Microsoft* before the first name only.
 
-**Exceptions** Never include *Microsoft* before *Bing, Skype, Xbox,* or *Windows.*  
+**Exceptions** Never include *Microsoft* before *Bing, Skype, Xbox*, or *Windows*.  
 
 In general, focus on the customer, and avoid making Microsoft the subject of the sentence. For example, say,
-"Learn about the options available for upgrading," not "Microsoft offers a variety of options for upgrading." It's OK to use phrasing like *we recommend* if it helps you avoid awkward wording like *it's recommended.*
+"Learn about the options available for upgrading," not "Microsoft offers a variety of options for upgrading." It's OK to use phrasing like *we recommend* if it helps you avoid awkward wording like *it's recommended*.
 
 When it's necessary for Microsoft to be the subject, choose the pronouns that best fit your message.
 
-- When the tone is friendly, informative, or inspiring, use *we* and *our.*
+- When the tone is friendly, informative, or inspiring, use *we* and *our*.
 
 ## Examples
 
   We believe in what people make possible.
   We recommend that you upgrade to the latest version of the service when it becomes available. 
 
-- In formal legal or business content, use *it* and *its.*  
+- In formal legal or business content, use *it* and *its*.  
   **Example**  
   Microsoft and its subsidiaries  
   

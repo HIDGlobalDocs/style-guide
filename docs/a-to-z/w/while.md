@@ -1,6 +1,6 @@
 # while
 
-Use only to refer to something occurring in time. Don't use as a synonym for *although,* *whereas, on the contrary,* or *in spite of*.
+Use only to refer to something occurring in time. Don't use as a synonym for *although*, *whereas, on the contrary*, or *in spite of*.
 
 ## Examples
 

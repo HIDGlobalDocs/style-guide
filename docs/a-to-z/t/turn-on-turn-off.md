@@ -1,6 +1,6 @@
 # turn on, turn off
 
-Use instead of *power on/power off, start/stop,* or *switch on/switch off* to mean turning the device on and off.
+Use instead of *power on/power off, start/stop*, or *switch on/switch off* to mean turning the device on and off.
 
 Don't use to refer to selecting or clearing check boxes in instructions. Use *select* and *clear* instead. It's OK to use *turn on/turn off* to refer to webpage options and toggles. 
 

@@ -2,7 +2,7 @@
 
 Most of the time, avoid talking about UI elements. Talk about customer actions instead.
 
-When you need to refer to a dialog box, use *dialog box*—don't shorten to *dialog.* Don't use *pop-up window* or *dialogue box*.
+When you need to refer to a dialog box, use *dialog box*—don't shorten to *dialog*. Don't use *pop-up window* or *dialogue box*.
 
 Don't hyphenate *dialog box* as a modifier.
 

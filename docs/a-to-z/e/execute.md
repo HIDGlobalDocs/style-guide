@@ -1,6 +1,6 @@
 # execute
 
-Don't use except to follow the UI. Use *run* instead. Even if the UI includes *execute,* the action is *run*. Always use *run* in the context of macros and queries.
+Don't use except to follow the UI. Use *run* instead. Even if the UI includes *execute*, the action is *run*. Always use *run* in the context of macros and queries.
 
 ## Examples
 

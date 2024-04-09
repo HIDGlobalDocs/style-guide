@@ -1,3 +1,3 @@
 # upward
 
-Use instead of *upwards.*
+Use instead of *upwards*.

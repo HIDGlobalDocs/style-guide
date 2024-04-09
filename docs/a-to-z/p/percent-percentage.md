@@ -1,6 +1,6 @@
 # percent, percentage
 
-One word. Spell out unless space is constrained. When spelling out *percent,* insert a space between the number and the word. 
+One word. Spell out unless space is constrained. When spelling out *percent*, insert a space between the number and the word. 
 
 It's OK to use the percent sign (%):
 
@@ -8,7 +8,7 @@ It's OK to use the percent sign (%):
   - To save space in UI (such as in controls).
   - As a technical symbol. 
 
-Always use a numeral with *percent,* no matter how small. 
+Always use a numeral with *percent*, no matter how small. 
 
 ## Examples
 
@@ -20,15 +20,15 @@ When you use *percent* in column headings to name the rate percent term in the p
 
 Use *percentage:* 
 
-  - When you don't specify a quantity, such as in the phrase *a large percentage of system resources.*
-  - When applying the percentage formula (base \* rate percent = percentage)*.*
+  - When you don't specify a quantity, such as in the phrase *a large percentage of system resources*.
+  - When applying the percentage formula (base \* rate percent = percentage)**.
 
 ## Examples
 
 
-| List price | Discount percent | Discount percentage |Sales price|
-|---|---|---|---|
-| $200 | 5% | $10.00 |$190.00|
+| List price | Discount percent | Discount percentage | Sales price |
+|------------|------------------|---------------------|-------------|
+| $200       | 5%               | $10.00              | $190.00     |
 
 10.00 USD is the percentage discount calculated by applying a 10 percent discount to a list price of 100.00 USD. $100.00 \* 10% = $10.00. 
 

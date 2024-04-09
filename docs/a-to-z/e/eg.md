@@ -1,6 +1,6 @@
 # e.g.
 
-Don't use. Use *for example, such as,* or *like,* as appropriate.
+Don't use. Use *for example, such as*, or *like*, as appropriate.
 
 ## Examples
 

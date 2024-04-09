@@ -1,6 +1,6 @@
 # should vs. must
 
-Before using *should* or *must,*
+Before using *should* or *must*,
 consider other ways to discuss recommendations or requirements, such as
 the imperative mood for required actions and a phrase such as *we recommend* for optional ones. Don't use *Microsoft recommends* or *it is recommended*. Be careful to make your tone helpful, not bossy. (For information about the imperative mood, see [Verbs](~/grammar/verbs.md).)
 

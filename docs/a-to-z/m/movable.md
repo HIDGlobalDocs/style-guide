@@ -1,3 +1,3 @@
 # movable
 
-Note spelling. Don't use *moveable.*
+Note spelling. Don't use *moveable*.

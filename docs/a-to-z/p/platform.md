@@ -9,6 +9,6 @@ operating systems.
 
 In content for a technical audience, use *cross-platform* to refer to an app or device that can run on more than one operating system.
 
-Use *on* as a preposition with *platform* in discussions about hardware platforms: *on the Intel Atom platform,* for example, but *in Windows 10.*
+Use *on* as a preposition with *platform* in discussions about hardware platforms: *on the Intel Atom platform*, for example, but *in Windows 10*.
 
 **See also**  [operating environment, operating system](../o/operating-environment-operating-system.md)

@@ -2,7 +2,7 @@
 
 In general, don't use. Focus on the customer, and avoid making Microsoft the subject.  
 
-It's OK to use phrasing like *we recommend* if it helps you avoid awkward phrasing like *it's recommended,* but write around it if you can.  
+It's OK to use phrasing like *we recommend* if it helps you avoid awkward phrasing like *it's recommended*, but write around it if you can.  
 
 ## Examples
 

@@ -2,7 +2,7 @@
 
 Use the term that makes the most sense for your audience.  
 
-In content for a business or technical audience, it's OK to use *org* as an abbreviation for *organization.* 
+In content for a business or technical audience, it's OK to use *org* as an abbreviation for *organization*. 
 Don't use a period after the abbreviation.
 
 ## Examples

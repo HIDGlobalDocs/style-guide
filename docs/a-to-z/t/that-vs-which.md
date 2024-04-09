@@ -1,13 +1,13 @@
 # that vs. which
 
-Use *that* at the beginning of a clause that’s necessary for the sentence to make sense. Don’t put a comma before *that.*
+Use *that* at the beginning of a clause that’s necessary for the sentence to make sense. Don’t put a comma before *that*.
 
 **Global tip** Include *that* even if the sentence is clear without it. It helps to clarify the sentence structure.
 
 Use *which*
 at the beginning of a clause that adds supporting or parenthetical
 information. If you can omit the clause and the sentence still makes
-sense, use *which,* and put a comma before it.
+sense, use *which*, and put a comma before it.
 
 ## Examples
 

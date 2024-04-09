@@ -1,6 +1,6 @@
 # load
 
-Don't use as a synonym for *start, install, run, set up,* or *download.*
+Don't use as a synonym for *start, install, run, set up*, or *download*.
 
 In content for a technical audience, use *load* only to
 describe dynamically calling graphics, documents, or installed programs

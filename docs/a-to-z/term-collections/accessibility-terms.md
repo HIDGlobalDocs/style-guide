@@ -1,8 +1,8 @@
 # Accessibility terms
 
-Write in a way that puts people first by using the phrase *person with* or *person who.*
+Write in a way that puts people first by using the phrase *person with* or *person who*.
 
-Don’t use language that defines people by their disability, such as *disabled, impaired,* and *the deaf.* A person might have a visual impairment, but that person isn’t impaired.
+Don’t use language that defines people by their disability, such as *disabled, impaired*, and *the deaf*. A person might have a visual impairment, but that person isn’t impaired.
 
 **Examples**
 

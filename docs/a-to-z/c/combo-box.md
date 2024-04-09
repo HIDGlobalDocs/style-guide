@@ -1,8 +1,8 @@
 # combo box
 
-Two words. Use only in content for a technical audience to describe a box in which the user can enter or select a value. Don't use in content for a general audience. Instead, refer to it as a *box,* using the label provided in the UI.
+Two words. Use only in content for a technical audience to describe a box in which the user can enter or select a value. Don't use in content for a general audience. Instead, refer to it as a *box*, using the label provided in the UI.
 
-Use *enter* to indicate that the user can either type an item in the box or select an item in the list. Or just say *For \<Control name>, enter \<value>.*
+Use *enter* to indicate that the user can either type an item in the box or select an item in the list. Or just say *For \<Control name>, enter \<value>*.
 
 ## Examples
 

@@ -1,6 +1,6 @@
 # Windows, Windows-based
 
-Use *Windows* as a modifier for aspects or elements of the Windows operating system. Don't use *Windows-based.*
+Use *Windows* as a modifier for aspects or elements of the Windows operating system. Don't use *Windows-based*.
 
 It's OK to use *Windows user* sparingly to avoid awkward constructions, but try to avoid *user* in general.
 

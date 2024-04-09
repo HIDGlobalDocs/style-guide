@@ -1,6 +1,6 @@
 # switch
 
-As a verb, use instead of *activate* or *toggle.*
+As a verb, use instead of *activate* or *toggle*.
 
 **Example**  
 Use **Alt+Tab** to switch between open windows.

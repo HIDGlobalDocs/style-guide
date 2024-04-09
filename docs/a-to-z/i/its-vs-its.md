@@ -2,8 +2,8 @@
 
 Proofread your work to be sure you've used the correct word. 
 
-  - *Its* is a possessive form meaning *belonging to it.*
-  - *It's* is the contraction meaning *it is* or *it has.*
+  - *Its* is a possessive form meaning *belonging to it*.
+  - *It's* is the contraction meaning *it is* or *it has*.
 
 ## Examples
 

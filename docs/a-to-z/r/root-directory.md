@@ -1,6 +1,6 @@
 # root directory
 
-In content for developers, use *root directory,* not *home directory,* to refer to the directory or folder from which all other directories or folders branch. In Windows, the root directory is indicated by a backslash (\\). Don’t shorten to *root* when you mean the directory.
+In content for developers, use *root directory*, not *home directory*, to refer to the directory or folder from which all other directories or folders branch. In Windows, the root directory is indicated by a backslash (\\). Don’t shorten to *root* when you mean the directory.
 
 In other content, use *top-level folder*.
 

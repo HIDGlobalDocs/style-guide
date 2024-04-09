@@ -1,6 +1,6 @@
 # bold
 
-Use only as an adjective, not as a noun or verb. Don't use *bolded, boldface,* or *boldfaced*.
+Use only as an adjective, not as a noun or verb. Don't use *bolded, boldface*, or *boldfaced*.
 
 ## Examples
 

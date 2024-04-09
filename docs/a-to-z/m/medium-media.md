@@ -1,6 +1,6 @@
 # medium, media
 
-Use *medium,* not *media,* as a singular subject. Ensure that the verb agrees with the subject (that is, *the medium is* and *the media are*).
+Use *medium*, not *media*, as a singular subject. Ensure that the verb agrees with the subject (that is, *the medium is* and *the media are*).
 
 Use *media* to describe:
 

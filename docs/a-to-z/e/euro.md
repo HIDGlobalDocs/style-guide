@@ -8,7 +8,7 @@ Symbol: €
 
 In
 US content, place the euro symbol in front of the amount. Different
-locales might place the euro symbol elsewhere, as appropriate. A euro is divided into 100 *cents.* When
+locales might place the euro symbol elsewhere, as appropriate. A euro is divided into 100 *cents*. When
 expressing an amount in euros and cents in US content, use a decimal
 point. Different locales might use a decimal point or a comma, as
 appropriate.
@@ -27,7 +27,7 @@ Use the following phrases to refer to countries that have adopted the euro as th
 
 Use references to the EMU cautiously. Some people aren't familiar with the organization.
 
-**Note** On subsequent mentions, it's OK to use the abbreviations *EU* and *EMU.* It's also OK to refer to EU members as *EU member states* and to EMU members as *EMU member states.*
+**Note** On subsequent mentions, it's OK to use the abbreviations *EU* and *EMU*. It's also OK to refer to EU members as *EU member states* and to EMU members as *EMU member states*.
 
 Use *non-euro nations* to refer to EU member states that haven't adopted the euro as their currency.
 

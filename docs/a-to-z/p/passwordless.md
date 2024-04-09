@@ -2,7 +2,7 @@
 
 Avoid. Instead, use wording that's friendlier and more clearly describes the benefit. 
 
-When you must use *passwordless,* don't include a hyphen, and use it only as an adjective, 
+When you must use *passwordless*, don't include a hyphen, and use it only as an adjective, 
 not as a noun. For example, use "the steps to a passwordless environment" not "the steps to passwordless."   
 
 ## Examples

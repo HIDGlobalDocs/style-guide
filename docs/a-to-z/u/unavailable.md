@@ -2,7 +2,7 @@
 
 Most of the time, talk about the actions that customers should take rather than describing UI. 
 
-When you must discuss UI, use *not available* or *isn’t available* instead of *unavailable, disabled,* or *grayed* to describe commands and options that are in an unusable state. Use *appears dimmed* if you must describe their appearance. It’s OK to use *unavailable* to describe an outage or a service that isn’t offered to certain customers.  
+When you must discuss UI, use *not available* or *isn’t available* instead of *unavailable, disabled*, or *grayed* to describe commands and options that are in an unusable state. Use *appears dimmed* if you must describe their appearance. It’s OK to use *unavailable* to describe an outage or a service that isn’t offered to certain customers.  
 
 ## Examples
 

@@ -4,7 +4,7 @@ Use only as an adjective.
 
 Use the abbreviation *HDMI* most of the time. It’s OK to spell out in parentheses on the first mention.
 
-Use *an* as an article with *HDMI.*
+Use *an* as an article with *HDMI*.
 
 ## Examples
 

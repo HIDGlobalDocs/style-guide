@@ -4,7 +4,7 @@ Don't use *disabled* to refer to people with disabilities.
 
 In content for a technical audience, it's OK to use *disable* to mean making a command or function inactive and *disabled* to describe such commands and functions.
 
-In other content, use *turned off* or *isn’t available.*
+In other content, use *turned off* or *isn’t available*.
 
 ## Examples
 

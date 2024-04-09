@@ -1,6 +1,6 @@
 # zero, zeros
 
-Use *zeros,* not *zeroes,* as the plural of *zero*.
+Use *zeros*, not *zeroes*, as the plural of *zero*.
 
 When a measurement includes 0, use the plural form of the spelled-out unit of measure.
 

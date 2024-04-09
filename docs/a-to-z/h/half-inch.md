@@ -5,6 +5,6 @@ Hyphenate as an adjective. Use instead of *half an inch* or *one-half inch*. Whe
 **Global tip** Be
 careful when using abbreviations or acronyms that form English words.
 Machine translation might incorrectly translate
-the abbreviation *in.* as the word *in*. 
+the abbreviation *in*. as the word *in*. 
 
 **See also** [Units of measure term collection](../term-collections/units-of-measure-terms.md)

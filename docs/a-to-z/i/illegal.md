@@ -1,6 +1,6 @@
 # illegal
 
-Don't use to mean *invalid* or *not valid.*
+Don't use to mean *invalid* or *not valid*.
 
 ## Examples
 

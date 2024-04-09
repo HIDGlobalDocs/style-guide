@@ -1,6 +1,6 @@
 # tool
 
-Use *tool,* not *utility,* to describe a feature that helps customers accomplish tasks.
+Use *tool*, not *utility*, to describe a feature that helps customers accomplish tasks.
 
 **See also**   
 [add-in, add-on](../a/add-in-add-on.md)  

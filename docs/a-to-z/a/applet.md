@@ -2,7 +2,7 @@
 
 Use to refer to an HTML-based program that a browser downloads temporarily to a customer's hard drive. *Applet* is most often associated with Java.
 
-In general, when referring to a small program, use the name of the program or the most appropriate term, such as *item, app, program, add-in,* or *applet.*
+In general, when referring to a small program, use the name of the program or the most appropriate term, such as *item, app, program, add-in*, or *applet*.
 
 ## Example
 

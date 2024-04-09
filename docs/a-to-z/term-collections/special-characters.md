@@ -39,13 +39,13 @@ Use these terms to describe the special characters shown.
 |–              | minus sign (use en dash) |
 |×              | multiplication sign<br />Use * instead if necessary to match software. |
 |≠              | not equal to |
-|#              | number sign or hashtag<br />In general, use *number sign* instead of *pound sign* to refer to the # symbol. In social media, use *hashtag.* Use *pound key* when referring to the phone keypad button. |
+|#              | number sign or hashtag<br />In general, use *number sign* instead of *pound sign* to refer to the # symbol. In social media, use *hashtag*. Use *pound key* when referring to the phone keypad button. |
 |¶              | paragraph mark |
 |( )            | parentheses (plural), opening or closing parenthesis (singular) |
 |%              | percent |
 |π              | pi |
 |\|             | pipe, vertical bar, or **OR** logical operator |
-|+              | plus sign<br />Don’t use to replace words like *and, over,* or *plus*. See [plus sign (+)](../p/plus-sign.md) |
+|+              | plus sign<br />Don’t use to replace words like *and, over*, or *plus*. See [plus sign (+)](../p/plus-sign.md) |
 |±              | plus or minus sign |
 |?              | question mark |
 |“ ”            | quotation marks (not *quotes* or *quote marks*)<br />*Curly quotation marks* is OK if necessary to distinguish from straight quotation marks. |
@@ -55,6 +55,6 @@ Use these terms to describe the special characters shown.
 |®              | registered trademark symbol |
 |§              | section |
 |/              | slash (not *virgule*) |
-|~              | tilde<br />Don't use in place of *about* or *approximately.* |
+|~              | tilde<br />Don't use in place of *about* or *approximately*. |
 |™              | trademark symbol |
 |_              | underscore |

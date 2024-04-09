@@ -8,4 +8,4 @@ Don't use *quit* to refer to any of the following:
   - Ending a session on a computer or network. Use *sign out* instead. 
   - Ending a network connection. Use *end* instead. 
 
-Use *stop responding,* not *quit,* when an app encounters a problem and can't close itself.
+Use *stop responding*, not *quit*, when an app encounters a problem and can't close itself.
