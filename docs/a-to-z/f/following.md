@@ -2,8 +2,9 @@
 
 Use *following* to introduce art, a table, or, in some cases, a list.
 
-**Example**  
-The following table compares the different rates.
+## Example
+
+- The following table compares the different rates.
 
 If *following* is the last word before what it introduces, follow it with a colon.
 

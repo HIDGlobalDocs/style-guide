@@ -1,8 +1,8 @@
 # frameset
 
-Use only in content for developers. 
+Use only in content for developers.
 
-Use *frames* to refer to the independently scrollable regions on a webpage. 
+Use *frames* to refer to the independently scrollable regions on a webpage.
 
 Use *frameset document* to describe the HTML document that describes the frame layout in a frames page.
 
