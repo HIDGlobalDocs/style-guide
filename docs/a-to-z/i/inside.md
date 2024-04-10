@@ -2,5 +2,6 @@
 
 Use instead of *inside of*.
 
-**Example**  
-To change the margins inside the text box ....
+## Example
+
+- To change the margins inside the text box ....

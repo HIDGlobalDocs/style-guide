@@ -1,6 +1,6 @@
 # indent, outdent
 
-Use *indent* to refer to a single instance of indentation. For example, use *hanging indent, nested indent, negative indent*, or *positive indent*. 
+Use *indent* to refer to a single instance of indentation. For example, use *hanging indent, nested indent, negative indent*, or *positive indent*.
 
 Use *indentation* to refer to the general concept.
 
