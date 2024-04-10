@@ -400,6 +400,7 @@ nav:
                             - "hearing-impaired": "a-to-z/h/hearing-impaired.md"
                             - "help": "a-to-z/h/help.md"
                             - "hexadecimal": "a-to-z/h/hexadecimal.md"
+                            - "HID Global": "a-to-z/h/hid-global.md"
                             - "hierarchical menu": "a-to-z/h/hierarchical-menu.md"
                             - "high-level-language compiler": "a-to-z/h/high-level-language-compiler.md"
                             - "high-quality": "a-to-z/h/high-quality.md"
@@ -539,7 +540,6 @@ nav:
                             - "metafile": "a-to-z/m/metafile.md"
                             - "micro": "a-to-z/m/micro.md"
                             - "microprocessor": "a-to-z/m/microprocessor.md"
-                            - "Microsoft": "a-to-z/m/microsoft.md"
                             - "midnight": "a-to-z/m/midnight.md"
                             - "million, M": "a-to-z/m/million-m.md"
                             - "Minimize button, minimize": "a-to-z/m/minimize-button-minimize.md"
@@ -562,7 +562,6 @@ nav:
                             - "multiplication sign (×)": "a-to-z/m/multiplication-sign.md"
                             - "multitask, multitasking": "a-to-z/m/multitask-multitasking.md"
                             - "multithreaded": "a-to-z/m/multithreaded.md"
-                            - "software-license-terms": "a-to-z/m/software-license-terms.md"
                   - "N":
                             - "n": "a-to-z/n/n.md"
                             - "namespace": "a-to-z/n/namespace.md"

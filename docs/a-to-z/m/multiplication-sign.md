@@ -6,5 +6,5 @@ Use × to mean *by* when you refer to screen resolution or dimensions.
 
 ## Examples
 
-48 × 48 pixels  
-The application icon should be 62 × 62 pixels and PNG format.
+- 48 × 48 pixels  
+- The application icon should be 62 × 62 pixels and PNG format.
