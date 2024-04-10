@@ -4,5 +4,5 @@ Lowercase. Don’t hyphenate as a noun. Always hyphenate as an adjective. Don’
 
 ## Examples
 
-line-of-business app   
-In any line of business, …
+- line-of-business app
+- In any line of business, …

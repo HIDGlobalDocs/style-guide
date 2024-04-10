@@ -6,8 +6,8 @@ It's OK to use or later to refer to multiple versions of software. Keep in mind 
 
 ## Examples
 
-Internet Explorer 7 or later, Firefox 3.6 or later  
-Windows 7, Windows 8, Windows 8.1, Windows 10, and later. 
-Download and install the Power BI publisher for Excel of desktop versions of Microsoft Excel 2010 with SPI and later.
+- Internet Explorer 7 or later, Firefox 3.6 or later  
+- Windows 7, Windows 8, Windows 8.1, Windows 10, and later.
+- Download and install the Power BI publisher for Excel of desktop versions of Microsoft Excel 2010 with SPI and later.
 
 **See also** [earlier](../e/earlier.md)
