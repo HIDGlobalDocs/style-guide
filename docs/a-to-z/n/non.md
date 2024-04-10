@@ -4,7 +4,8 @@ Don't hyphenate words beginning with *non-*, such as *nonnumeric* and *nonzero*,
 
 Don't use *non-* to negate an entire phrase.
 
-**Example**  
-unrelated to security (instead of *non-security related*)
+## Example
+
+- unrelated to security (instead of *non-security related*)
 
 To learn more about hyphenation, see  [Hyphens](~/punctuation/dashes-hyphens/hyphens.md).

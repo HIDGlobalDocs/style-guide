@@ -1,6 +1,6 @@
 # .NET
 
-Note capitalization. Always begin with a period (.). Don't spell out as *dot NET*. 
+Note capitalization. Always begin with a period (.). Don't spell out as *dot NET*.
 
 Use *Microsoft .NET* on the first mention. After that, it's OK to use *.NET*.
 

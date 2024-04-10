@@ -1,6 +1,6 @@
 # network
 
-Don't shorten to *net*. 
+Don't shorten to *net*.
 
 Don't use *network* as a verb to describe the action of connecting a computer to a network.
 
