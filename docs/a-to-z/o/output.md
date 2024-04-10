@@ -6,5 +6,5 @@ Avoid using as a noun or an adjective in content for a general audience. Use a m
 
 ## Examples
 
-Print a document to a file or to a specific printer.  
-The **HttpResponse.Output** property delivers text output to the outgoing HTTP response stream.
+- Print a document to a file or to a specific printer.  
+- The **HttpResponse.Output** property delivers text output to the outgoing HTTP response stream.
