@@ -2,10 +2,7 @@
 
 Don't use in content for a general audience.
 
-It's OK to use *platform*
-in content for a technical audience when you need to distinguish
-differing behaviors of a function or other API element in various
-operating systems.
+It's OK to use *platform* in content for a technical audience when you need to distinguish differing behaviors of a function or other API element in various operating systems.
 
 In content for a technical audience, use *cross-platform* to refer to an app or device that can run on more than one operating system.
 

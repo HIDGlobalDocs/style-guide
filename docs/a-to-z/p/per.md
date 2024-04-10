@@ -4,12 +4,12 @@ It's OK to use *per* to mean *for each* in statistical or technical contexts. In
 
 ## Examples
 
-Customers who sign in only once a day are rare.  
-You can have only one drive letter per network resource.  
+- Customers who sign in only once a day are rare.  
+- You can have only one drive letter per network resource.  
 
 Don't use *per* to mean *by* or *in accordance with*.
 
 ## Examples
 
-Find all the articles that contain a specific word by following the instructions on your screen.  
-Identify your computer by using the procedure in the next section. 
+- Find all the articles that contain a specific word by following the instructions on your screen.  
+- Identify your computer by using the procedure in the next section.

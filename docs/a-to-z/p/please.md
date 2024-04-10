@@ -4,4 +4,4 @@ Avoid *please* except in situations where the customer is asked to do something 
 
 ## Example
 
-The network connection was lost. Please reenter your password.
+- The network connection was lost. Please reenter your password.
