@@ -4,7 +4,8 @@ In content for developers, use *root directory*, not *home directory*, to refer 
 
 In other content, use *top-level folder*.
 
-**Example**  
-Change to the root directory, and enter the following command: **edit autoexec.bat**
+## Example
+
+- Change to the root directory, and enter the following command: **edit autoexec.bat**
 
 **See also**  [top-level folder](../t/top-level-folder.md)

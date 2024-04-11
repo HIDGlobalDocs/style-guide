@@ -1,6 +1,6 @@
 # remote
 
-It's OK to use *remote* as an adjective to describe a person or computer at another site. 
+It's OK to use *remote* as an adjective to describe a person or computer at another site.
 
 Don't use *remote drive* to describe a drive on a remote computer. Use *network drive* instead.
 
