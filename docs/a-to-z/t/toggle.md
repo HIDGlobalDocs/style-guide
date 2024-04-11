@@ -8,9 +8,9 @@ When you must refer to a toggle by name, use bold formatting for the name of the
 
 ## Examples
 
-Use the **Caps lock** key to switch from typing capital letters to typing lowercase letters.  
-To switch between Normal, Outline, and Slide Sorter views, use the buttons on the **View** tab.  
-To make text and apps easier to see, turn on the toggle under **Turn on high contrast**.  
-To keep all applied filters, turn on the **Pass all filters** toggle.  
+- Use the **Caps lock** key to switch from typing capital letters to typing lowercase letters.  
+- To switch between Normal, Outline, and Slide Sorter views, use the buttons on the **View** tab.  
+- To make text and apps easier to see, turn on the toggle under **Turn on high contrast**.  
+- To keep all applied filters, turn on the **Pass all filters** toggle.  
 
 **See also** [Describing interactions with UI](~/procedures-instructions/describing-interactions-with-ui.md), [Formatting text in instructions](~/procedures-instructions/formatting-text-in-instructions.md)
