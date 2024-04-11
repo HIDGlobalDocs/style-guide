@@ -10,8 +10,8 @@ It's OK to use *startup* as an adjective in phrases such as *startup screen*.
 
 ## Examples
 
-To open the app, select the icon.  
-When the app opens, a startup screen appears.  
-Open OneNote and start taking notes.  
+- To open the app, select the icon.  
+- When the app opens, a startup screen appears.  
+- Open OneNote and start taking notes.  
 
 **See also** [Start button, Start menu](../s/start-button-start-menu.md)

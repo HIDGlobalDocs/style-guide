@@ -4,7 +4,7 @@ Use *sample* to describe a graphic representation of something that might show u
 
 ## Examples
 
-This displays a sample of what the control will look like with the scheme applied.  
-To preview what the control will look like with the scheme applied, select **Preview**.
+- This displays a sample of what the control will look like with the scheme applied.
+- To preview what the control will look like with the scheme applied, select **Preview**.
 
 **See also** [preview](../p/preview.md)

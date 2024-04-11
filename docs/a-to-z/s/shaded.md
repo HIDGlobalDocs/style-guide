@@ -8,8 +8,8 @@ It’s OK to use *shaded* to describe the appearance of check boxes that represe
 
 ## Examples
 
-The command isn’t available until you select text.  
-If the option appears dimmed, it's not available.  
-Selected effects appear shaded. 
+- The command isn’t available until you select text.
+- If the option appears dimmed, it's not available.
+- Selected effects appear shaded.
 
 **See also** [unavailable](../u/unavailable.md)
