@@ -1,21 +1,15 @@
 # Computer and device terms
 
-In
-the modern world, customers get things done with whatever device
-is handy. When you write, focus on what the customer wants to
-accomplish. If you must write about the device itself, use the most
-general term that works—usually, that's *device*. Sometimes, it's *computer*, *phone*, or *wearable device*. Occasionally, it's *laptop*, *smartphone*, or *fitness band*.
+In the modern world, customers get things done with whatever device is handy. When you write, focus on what the customer wants to accomplish. If you must write about the device itself, use the most general term that works—usually, that's *device*. Sometimes, it's *computer*, *phone*, or *wearable device*. Occasionally, it's *laptop*, *smartphone*, or *fitness band*.
 
 ## Device interaction terms
 
 Use these verbs to talk about using devices and peripheral devices:
 
-  - Use *turn on* and *turn off*, not *power on*, *power off, switch on*, or *switch off*.
-  - Use *set up* to describe preparing hardware or software for first use.
-  - Use *install* and *uninstall* to refer to adding and removing hardware drivers and apps. 
-  - Use *connect* and *disconnect* to
-    refer to establishing a relationship between devices (direct or
-    wireless) and connecting a device to a network or the internet.
+- Use *turn on* and *turn off*, not *power on*, *power off, switch on*, or *switch off*.
+- Use *set up* to describe preparing hardware or software for first use.
+- Use *install* and *uninstall* to refer to adding and removing hardware drivers and apps.
+- Use *connect* and *disconnect* to refer to establishing a relationship between devices (direct or wireless) and connecting a device to a network or the internet.
 
 ## Preferred device terms
 
@@ -26,11 +20,9 @@ Use these verbs to talk about using devices and peripheral devices:
 | **phone, mobile phone, smartphone** | Use *phone* most of the time. <br /><br />If you need to call out the mobility, use *mobile phone*.<br /><br />Use *smartphone* only if you need to distinguish a smartphone from other types of phones. <br /><br />Don't use *wireless phone*, *cell phone*, or *cellular phone*.                                                            |
 | **tablet, laptop**                  | Use a more generic term unless you're talking about a specific class of computers. Use *tablet* only to refer to a touchscreen computer without a permanently attached keyboard. Use *laptop* to refer to a portable computer with a permanently attached keyboard, with or without a touchscreen.<br /><br />Don't use *slate* or *notebook*. |
 | **wearable device, fitness band**   | Use only when it's necessary to differentiate devices that are meant to be worn from other devices.<br /><br />Avoid using *wearable* as a noun.                                                                                                                                                                                               |
-
 ## Acceptable terms for specific references
 
 Use the following terms only when you need to be more specific than you can be by using the preferred terms.
-
 
 | **Term**            | **Usage**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 |---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -41,8 +33,7 @@ Use the following terms only when you need to be more specific than you can be b
 
 ## **Peripheral devices and hardware components**
 
-In general, use the most generic term that describes a peripheral device or hardware component. 
-
+In general, use the most generic term that describes a peripheral device or hardware component.
 
 | **Term**                                                  | **Usage**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

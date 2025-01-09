@@ -29,13 +29,13 @@ In measurements, when the unit of measure isn't abbreviated, use the singular fo
 
 Use *of* to add a modifier to a measurement used as a noun.
 
-**Example**
+## Example
 
 - The operation requires 200 MB of available hard-drive space.
 
 Use commas in numbers that have four or more digits, regardless of how the numbers appear in the UI.
 
-**Example**  
+## Example
 
 - 1,024 MB
 

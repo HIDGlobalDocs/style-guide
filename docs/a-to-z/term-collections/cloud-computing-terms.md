@@ -1,14 +1,10 @@
 # Cloud-computing terms
 
-As
-cloud computing evolves, the consistent use of its
-terminology across Microsoft content presents a clear story to
-customers. 
+As cloud computing evolves, the consistent use of its terminology across Microsoft content presents a clear story to customers.
 
 This section covers common cloud-computing terms.
 
-For more
-information about creating new terms or using emerging terminology, see [Use technical terms carefully](~/word-choice/use-technical-terms-carefully.md).
+For more information about creating new terms or using emerging terminology, see [Use technical terms carefully](~/word-choice/use-technical-terms-carefully.md).
 
 
 | **Term**                                              | **Usage**                                                                                                                                                                                                                                                                                                                                                                                                                     |

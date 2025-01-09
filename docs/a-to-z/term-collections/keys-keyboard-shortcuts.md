@@ -30,9 +30,7 @@ For information about describing customers' interactions with UI, see [Procedure
 
   - On subsequent mentions, refer to the key by its name only. <br />    **Example**<br />    Select **F1**.
 
-If
-you need guidance for a key name that isn't on this list, use sentence
-capitalization and spell it as it appears on the keyboard.
+If you need guidance for a key name that isn't on this list, use sentence capitalization and spell it as it appears on the keyboard.
 
 
 | **Term**                                                                                   | **Usage**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
@@ -85,17 +83,22 @@ capitalization and spell it as it appears on the keyboard.
 
 ## Special character names
 
-Because
-special character names could be confused with an action (such as
-\+) or be difficult to see, always spell out the following special
-character names: *Plus sign, Minus sign, Hyphen, Period*, and *Comma*. 
+Because special character names could be confused with an action (such as \+) or be difficult to see, always spell out the following special character names: *Plus sign, Minus sign, Hyphen, Period*, and *Comma*.
 
-To avoid confusion, it's OK to add the character in parentheses after spelling out the name.<br />**Example** <br />Plus sign (+) 
+To avoid confusion, it's OK to add the character in parentheses after spelling out the name.
+
+## Example
+
+- Plus sign (+) 
 
 Use discretion. This might not be necessary for commonly used characters, such as the period (.).
 
 To show a key combination that includes punctuation requiring use of the Shift key, such as the question mark, use *Shift* and the name or symbol of the shifted key. Using the name of the unshifted key, such as *4* rather than *$*, could be confusing or even wrong. For example, the *?* and */* characters aren't shifted keys on every keyboard. Always spell out *Plus sign, Minus sign, Hyphen, Period*, and *Comma*.
 
-**Examples**<br />Ctrl+Shift+? <br />Ctrl+Shift+\* <br />Ctrl+Shift+Comma
+## Examples
+
+- Ctrl+Shift+?
+- Ctrl+Shift+\*
+- Ctrl+Shift+Comma
 
 **See also** [Special character term collection](../term-collections/special-characters.md)
