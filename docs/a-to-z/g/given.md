@@ -1,6 +1,6 @@
 # given
 
-Don't use to mean *specified, particular,* or *fixed*.
+Don't use to mean *specified, particular*, or *fixed*.
 
 ## Examples
 

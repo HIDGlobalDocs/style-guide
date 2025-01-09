@@ -15,4 +15,4 @@ In mobile UI content or to form a parallel construction with another one-word ph
 
 **Global tip** The abbreviated form isn't available in all languages, so allow enough space for the full translated term in localized content.
 
-**See also** [message](~/a-z-word-list-term-collections/m/message.md)
+**See also** [message](../m/message.md)

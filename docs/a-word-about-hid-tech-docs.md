@@ -2,7 +2,7 @@
 
 HID documentation comes in a variety of forms and topic types. The HID docs set includes step-by-step instructions, conceptual content, reference guides, troubleshooting pages, scenarios, and product tutorials. HID documentation describes the best way for users to achieve their goals using HID products.
 
-Every topic focuses on the user. By providing relevant information that guides a reader through a process or goal, HID docs help users become productive and confident when they use HID software.
+Every topic focuses on the user. By providing relevant information that guides a reader through a process or goal, HID docs help users become productive and confident when they use HID products.
 
 To support this goal, HID documentation follows these principles:
 

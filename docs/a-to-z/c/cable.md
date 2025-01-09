@@ -1,3 +1,3 @@
 # cable
 
-Don't use as a verb. 
+Don't use as a verb.

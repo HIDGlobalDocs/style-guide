@@ -1,3 +1,3 @@
 # drive name
 
-Use instead of *drive specification, designator,* or *designation*.
+Use instead of *drive specification, designator*, or *designation*.

@@ -1,6 +1,6 @@
 # abort, abortion
 
-Never use *abortion.*
+Never use *abortion*.
 
 Don't use *abort* in content or user experiences for a general audience. If *abort* appears in a UI that you can't edit, use an alternative term to describe the customer action.
 

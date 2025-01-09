@@ -1,3 +1,3 @@
 # license terms
 
-**See** [Microsoft Software License Terms](~/a-z-word-list-term-collections/m/software-license-terms.md)
+**See** [Microsoft Software License Terms](../m/software-license-terms.md)

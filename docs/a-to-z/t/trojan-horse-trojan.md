@@ -1,3 +1,3 @@
 # trojan horse, trojan
 
-**See** [Security term collection](~/a-z-word-list-term-collections/term-collections/security-terms.md)
+**See** [Security term collection](../term-collections/security-terms.md)

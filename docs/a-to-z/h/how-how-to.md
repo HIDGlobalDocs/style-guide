@@ -4,7 +4,7 @@ Don’t use *how-to* as a noun. Always hyphenate as an adjective. Never capitali
 
 ## Examples
 
-how-to book  
-how-to article  
-How to add an article to the library  
-(Title-style capitalization) Writing a How-to Article
+- how-to book  
+- how-to article  
+- How to add an article to the library  
+- (Title-style capitalization) Writing a How-to Article

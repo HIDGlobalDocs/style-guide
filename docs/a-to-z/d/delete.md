@@ -8,8 +8,8 @@ Don't use *delete* as a synonym for *remove*. Don't use *cut* or *erase* as a sy
 
 ## Examples
 
-Delete the second paragraph.  
-Delete MyFile.txt from the Windows folder.  
-Remove the **Size** column from the Inbox.  
+- Delete the second paragraph.  
+- Delete MyFile.txt from the Windows folder.  
+- Remove the **Size** column from the Inbox.  
 
 **See also** [cut, cut-and-paste](../c/cut-and-paste.md), [remove](../r/remove.md)

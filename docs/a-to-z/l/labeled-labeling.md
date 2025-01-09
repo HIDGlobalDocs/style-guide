@@ -1,3 +1,3 @@
 # labeled, labeling
 
-Use one *l,* not two.
+Use one *l*, not two.

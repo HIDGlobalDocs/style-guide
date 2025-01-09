@@ -6,7 +6,7 @@ Most of the time, avoid talking about UI elements. Instead, talk about what the 
 
 ## Examples
 
-In **Colors**, let Windows pull an accent color from your background, or choose your own color.  
-In the **Color** palette, choose a color for the object outline.
+- In **Colors**, let Windows pull an accent color from your background, or choose your own color.  
+- In the **Color** palette, choose a color for the object outline.
 
 **See also** [Describing interactions with UI](~/procedures-instructions/describing-interactions-with-ui.md), [Formatting text in instructions](~/procedures-instructions/formatting-text-in-instructions.md)

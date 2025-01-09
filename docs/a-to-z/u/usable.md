@@ -1,3 +1,3 @@
 # usable
 
-Use instead of *useable.*
+Use instead of *useable*.

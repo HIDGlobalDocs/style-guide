@@ -1,3 +1,3 @@
 # e-form, form
 
-Don't use *e-form.* Use *form* instead. 
+Don't use *e-form*. Use *form* instead.

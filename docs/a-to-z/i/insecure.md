@@ -1,3 +1,3 @@
 # insecure
 
-Don't use to mean *not secure*. 
+Don't use to mean *not secure*.

@@ -2,14 +2,14 @@
 
 Don't spell out as *Universal Plug and Play*. Don't use as a synonym for *Plug and Play* or *PnP*.
 
-Use *UPnP* as an adjective followed by *certified,* if appropriate, and a specific term, such as *device, architecture,* or *standards.*  
+Use *UPnP* as an adjective followed by *certified*, if appropriate, and a specific term, such as *device, architecture*, or *standards*.  
 **Example**  
 This UPnP certified device features .... 
 
 Don't use *UPnP* to refer to an uncertified device.
 
-Don't use as a noun by itself. For example, don't say, *UPnP is an architecture for pervasive peer-to-peer network connectivity.* Rephrase the sentence as, *The UPnP architecture enables pervasive peer-to-peer network connectivity.*
+Don't use as a noun by itself. For example, don't say, *UPnP is an architecture for pervasive peer-to-peer network connectivity*. Rephrase the sentence as, *The UPnP architecture enables pervasive peer-to-peer network connectivity*.
 
 For other guidelines, see the [Open Connectivity Foundation website](https://openconnectivity.org/). 
 
-**See also** [Plug and Play, plug and play](~/a-z-word-list-term-collections/p/plug-and-play.md)
+**See also** [Plug and Play, plug and play](../p/plug-and-play.md)

@@ -2,10 +2,12 @@
 
 Don't use as a verb. Describe what's happening, or use a more specific verb instead.
 
-**Example**  
-Windows displays an error message. 
+## Example
 
-Don't use as a synonym for *problem.*
+- EasyLobby displays an error message.
 
-**Example**  
-Outlook has run into a problem and needs to restart. 
+Don't use as a synonym for *problem*.
+
+## Example
+
+EasyLobby has run into a problem and needs to restart.

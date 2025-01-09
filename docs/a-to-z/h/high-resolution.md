@@ -1,3 +1,3 @@
 # high-resolution
 
-Always hyphenate. Don’t abbreviate as *hi-res*. 
+Always hyphenate. Don’t abbreviate as *hi-res*.

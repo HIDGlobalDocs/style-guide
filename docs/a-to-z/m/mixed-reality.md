@@ -1,6 +1,6 @@
 # mixed reality, mixed-reality
 
-Two words as a noun. Hyphenate as an adjective. 
+Two words as a noun. Hyphenate as an adjective.
 
 ## Examples
 

@@ -4,7 +4,7 @@ For technical audiences, it's OK to use *alert* to refer to automated messages f
 
 For general users, don't use *alert* to refer to a system message. Use *notification* instead. 
 
-Don't use *alert* as a synonym for *reminder.*
+Don't use *alert* as a synonym for *reminder*.
 
 ## Examples
 

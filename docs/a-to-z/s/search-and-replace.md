@@ -4,7 +4,8 @@ Don't use *search and replace* to describe finding and replacing things in a doc
 
 Use *search* and *replace* as verbs, not as nouns or adjectives.
 
-**Example**  
-Search your document. 
+## Example
 
-**See also** [find and replace](~/a-z-word-list-term-collections/f/find-replace.md)
+- Search your document.
+
+**See also** [find and replace](../f/find-replace.md)

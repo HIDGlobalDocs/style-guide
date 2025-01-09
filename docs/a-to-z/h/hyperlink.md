@@ -4,9 +4,9 @@ Use *hyperlink* or *link* to describe text or a graphic that readers can select 
 
 Use *hyperlink* to refer to a UI element labeled *hyperlink*.
 
-Don't use *hot spot, hot link,* or *shortcut* to refer to a link.
+Don't use *hot spot, hot link*, or *shortcut* to refer to a link.
 
-Use *go to* to describe the process of going to another document, place, or webpage. Don't use *click* or *click on.*
+Use *go to* to describe the process of going to another document, place, or webpage. Don't use *click* or *click on*.
 
 Use *create* to describe writing the HTML code that forms the link.
 

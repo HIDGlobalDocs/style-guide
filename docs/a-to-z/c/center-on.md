@@ -1,3 +1,3 @@
 # center on
 
-Use instead of *center around.*
+Use instead of *center around*.
